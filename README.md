@@ -3,7 +3,7 @@
 ## Installation Guide
 
 Revision History
-Rev 1.00 (December 2, 2015)
+Rev 1.00 (December 10, 2016)
 * Initial release.
 
 
