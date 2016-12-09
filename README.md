@@ -22,12 +22,11 @@ Before you begin the installation process, make sure that there is adequate spac
 
 ### 3.1 Installing Windows®Complete the following steps to install Windows. For more detailed installation instructions, see the documentation that is available with your operating system.
 
-1. Insert the Windows installation CD into the CD-ROM drive, open Boot Manager, and boot your system using the UEFI CDROM option as shown below.![1](https://raw.githubusercontent.com/auspbro/Ubuntu-Windows_dual-boot_mode/master/res/1.png)
+1. Insert the Windows installation CD into the CD-ROM drive, open Boot Manager, and boot your system using the UEFI CDROM option as shown below.
 
-2. Select the appropriate language and click Next.![2](https://raw.githubusercontent.com/auspbro/Ubuntu-Windows_dual-boot_mode/master/res/2.png)
+2. Select the appropriate language and click Next.
 
 3. When prompted, select to install Windows only.
-![3](https://raw.githubusercontent.com/auspbro/Ubuntu-Windows_dual-boot_mode/master/res/3.png)
 
 4. Delete all existing partitions, leaving the whole hard disk empty, and click Next.
 5. Create a new partition that is half the size of the hard disk.
