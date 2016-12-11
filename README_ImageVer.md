@@ -30,7 +30,16 @@ Complete the following steps to install Windows. For more detailed installation 
 
 1. Insert the Windows installation CD into the CD-ROM drive, open Boot Manager, and boot your system using the UEFI CDROM option as shown below.![1](https://raw.githubusercontent.com/auspbro/Ubuntu-Windows_dual-boot_mode/master/res/1.png)
 
-2. Select the appropriate language and click Next.![2](https://raw.githubusercontent.com/auspbro/Ubuntu-Windows_dual-boot_mode/master/res/2.png)
+2. Select the appropriate language and click Next.
+
+  note: convert MBR to GPT partition.
+
+  * Press "shift+f10"
+  * diskpart
+  * list disk
+  * clean
+  * convert gpt
+![2](https://raw.githubusercontent.com/auspbro/Ubuntu-Windows_dual-boot_mode/master/res/2.png)
 
 3. When prompted, select to install Windows only.
 ![3](https://raw.githubusercontent.com/auspbro/Ubuntu-Windows_dual-boot_mode/master/res/3.png)
